@@ -1,16 +1,16 @@
 html,body{margin:0;padding:0}
-body{font: 76% tahoma,sans-serif;text-align:center;background:#201F1F;}
+body{font: 76% tahoma,sans-serif;text-align:center;background:#000000;}
 p{margin:0 10px 10px;color:#FFFFFF;}
 a{padding:5px;color:#FFFFFF;}
-div#header{background-color:#201F1F;color:#FFFFFF;}
+div#header{background-color:#000000;color:#FFFFFF;}
 div#header h1{height:80px;line-height:80px;margin:0;padding-left:10px;color:#FFFFFF;}
 div#container{text-align:left;color:#FFFFFF;}
 div#content p{line-height:1.4;color:#FFFFFF;}
-div#navigation{background:#201F1F;}
+div#navigation{background:#000000;}
 div#navigation ul{margin:15px 0; padding:0; list-style-type:none;}
 div#navigation li{margin-bottom:5px;}
-div#extra{background:#201F1F;}
-div#footer{background:#201F1F;}
+div#extra{background:#000000;}
+div#footer{background:#000000;}
 div#footer p{margin:0;padding:5px 10px}
 div#container{width:700px;margin:0 auto}
 div#content{float:left;width:500px;color:#FFFFFF;}
